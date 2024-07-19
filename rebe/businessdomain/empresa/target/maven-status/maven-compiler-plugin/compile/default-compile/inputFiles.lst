@@ -1,0 +1,17 @@
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\controllers\EmpresaController.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\dto\CategoriaDTO.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\dto\ProveedorDTO.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\dto\ProveedorResponseDTO.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\EmpresaApplication.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\models\Categoria.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\models\Empresa.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\models\MatrizEvaluacion.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\models\Perito.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\models\Proveedor.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\repositories\CategoriaRepository.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\repositories\EmpresaRepository.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\repositories\MatrizEvaluacionRepository.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\repositories\PeritoRepository.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\repositories\ProveedorRepository.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\services\ProveedorImpl.java
+C:\Users\kekab\OneDrive\Escritorio\rebe\businessdomain\empresa\src\main\java\com\udla\evaluaytor\businessdomain\empresa\services\ProveedorService.java
